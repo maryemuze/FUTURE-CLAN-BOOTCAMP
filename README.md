@@ -23,8 +23,6 @@ This report details the analysis of student in Data Analysis class from a recent
 
   ## Data Visualization
   
-  
-  
 ![power new 2](https://github.com/maryemuze/FUTURE-CLAN-BOOTCAMP/assets/169688768/1055f7e6-10fa-4696-909c-7de6a7525dd3)
 
 ![new p bi](https://github.com/maryemuze/FUTURE-CLAN-BOOTCAMP/assets/169688768/c0e35040-f893-4019-b26c-31e09f1831b9)
@@ -32,10 +30,11 @@ This report details the analysis of student in Data Analysis class from a recent
 # Key Takeaways
 Most survey participants were aged 26 to 35. This age group had twice as many respondents (115) as all other age groups combined. Males were the majority in the survey. ﻿Count of Group Number was highest for Lagos at 79, followed by Ogun and Oyo.
 - The survey showed the highest response rate(81.44%) among participants with HND/BSc qualifications.
-- Self-employed individuals made up 38.32% of the respondents in the survey on occupational levels.
-- The survey on marital status found 82.63% of respondents were single.
+- Self-employed individuals made up the respondents in the survey on occupational levels.
+- The survey on marital status found more respondents were single.
 
-
+# Conclusion
+This data analysis provides valuable insights into the demographics and background of the bootcamp participants. Understanding these characteristics can be used to improve the program's outreach strategies, cater to diverse learning styles and potentially predict student succes  on prior qualifications.
 
 
 
